@@ -5,7 +5,7 @@ Designed with a clean interface, smooth navigation, and optimized performance fo
 
 ## Preview
 
-Live Demo: Coming Soon
+Live Website: https://svu-zeta.vercel.app
 
 ## Tech Stack
 
